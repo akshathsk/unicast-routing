@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "monitor_neighbors.h": "c",
+        "stdio.h": "c",
+        "in.h": "c",
+        "socket.h": "c",
+        "string.h": "c",
+        "netdb.h": "c"
+    }
+}
